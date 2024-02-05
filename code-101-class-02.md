@@ -1,3 +1,2 @@
 # The Coders Computer
 
-NOTES
