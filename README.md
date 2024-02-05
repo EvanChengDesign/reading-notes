@@ -7,7 +7,7 @@
 
 ### Reminders:
 - Don't be afraid to fail. Multiple attempts will be necessary. 
-- Learn from your mistakes! Critic from others can give you a new perspective. 
+- Learn from your mistakes! Criticism from others can give you a new perspective. 
 - Surround yourself with high-achievers! Their success will push you to higher standards of work.
 
   
