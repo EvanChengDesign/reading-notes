@@ -7,22 +7,22 @@ _Original Article:_ [Getting Started: An overview of Markdown, how it works, and
 -   Created by John Gruber in 2004
 -   Popular markup language
 
-**II. How Markdown Works** 
-A. Different from WYSIWYG editors 
+**II. How Markdown Works**  
+A. Different from WYSIWYG editors  
 B. Markdown syntax added to text for formatting 	  
-_Example: # for headings, ** for bold_
+_Example: # for headings, ** for bold_  
 C. Markdown files may take time to get used to
 
-**III. Markdown Usage**
- A. Adding formatting elements using text editors 
- B. Markdown applications available for various platforms 
- C. Real-time preview may not be available
+**III. Markdown Usage**  
+A. Adding formatting elements using text editors  
+B. Markdown applications available for various platforms  
+C. Real-time preview may not be available
 
-**IV. Why Use Markdown?**
-A. Versatility: usable for various purposes 
-B. Portability: files can be opened by any application 
-C. Platform independence: works on any device/OS 
-D. Future-proof: content remains readable even if apps change 
+**IV. Why Use Markdown?**  
+A. Versatility: usable for various purposes  
+B. Portability: files can be opened by any application  
+C. Platform independence: works on any device/OS  
+D. Future-proof: content remains readable even if apps change  
 E. Wide support: supported by websites and many applications
 
 # Reflection and Discussion
