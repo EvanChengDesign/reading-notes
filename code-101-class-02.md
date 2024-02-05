@@ -50,7 +50,7 @@ Holiday\ Photos (nullfifies the double space and renders it into a regular pucnt
 - mkdir: make a new directory
 - touch:  update the timestamp of a file or directory. It can be used to create a new file if it does not already exist, or to update the timestamp of an existing file.
    
-4. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? \(Arguments are extra instructions given to a command.\
+4. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? \(Arguments are extra instructions given to a command.\)
 > in this scneario you are telling the terminal to change your current directory to projects. Next you are making a new project directory inside. Next you are using the touch command to create a new file inside the new-project directory. This new file is newfile.md. You then change directory and us ls to list the current files in the new-project directory that was just created. 
    
 
