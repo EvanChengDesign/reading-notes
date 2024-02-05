@@ -14,6 +14,9 @@
 - ls: List the contents of a directory
 - -l: Long Listing
 - Tab Completion: invoke an auto complete action
+- file: determine what kind of file
+- ls -a: List contents of directory, including hidden files
+- 
 
 **Absolute & Relative Paths**  
 
@@ -21,4 +24,18 @@
 
 -  Relative path: A file or directory location relative to where we currently are in the file system.
 -  Absolute path: A file or directory location in relation to the root of the file system.
+
+## **More About Files!**
+
+Everything is a file  
+- file.exe - an executable file, or program.
+- file.txt - a plain text file.
+- file.png, file.gif, file.jpg - an image.
+
+Escape Characters
+(\) The backslash nullifies the special meaninng of the next character.  
+Holiday\ Photos (nullfifies the double space and renders it into a regular pucntuation space)
+ 
+
+  
 
