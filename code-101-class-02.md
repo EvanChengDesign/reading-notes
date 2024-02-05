@@ -2,30 +2,31 @@
 
 # Reflection & Discussion 
 
-## Command Line Tutorial
+## **Command Line Tutorial**
 
-**I. Introduction to the Command Line**
+**I. Introduction to the Command Line**  
 * Explanation of the command line interface (CLI)
 * Advantages of using the command line
+
 **II. Basic Navigation**
--Commands:
--pwd: Print Working Directory
--ls: List Files and Directories
--cd: Change Directory
--mkdir: Make Directory
--rmdir: Remove Directory
--Examples of usage for each command
+- Commands:
+- pwd: Print Working Directory
+- ls: List Files and Directories
+- cd: Change Directory
+- mkdir: Make Directory
+- rmdir: Remove Directory
+
 **III. More on Files and Directories**
 
 Commands:
-cp: Copy Files
-mv: Move Files
-rm: Remove Files
-cat: Display File Contents
-more: Display File Contents Page by Page
-less: Display File Contents with Navigation
-Examples of usage for each command
-IV. Wildcards
+- cp: Copy Files
+- mv: Move Files
+- rm: Remove Files
+- cat: Display File Contents
+- more: Display File Contents Page by Page
+- less: Display File Contents with Navigation
+
+**IV. Wildcards**
 
 Explanation of wildcards (*, ?, [ ])
 Examples of using wildcards in commands
