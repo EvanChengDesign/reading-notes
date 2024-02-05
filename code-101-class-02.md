@@ -16,7 +16,7 @@
 - Tab Completion: invoke an auto complete action
 - file: determine what kind of file
 - ls -a: List contents of directory, including hidden files
-- 
+
 
 **Absolute & Relative Paths**  
 
@@ -36,6 +36,21 @@ Escape Characters
 (\) The backslash nullifies the special meaninng of the next character.  
 Holiday\ Photos (nullfifies the double space and renders it into a regular pucntuation space)
  
+## **Questions**
 
-  
+1. What are four important features to look for in a text editor?
+-  Series of Themes
+-  Syntax Highlighting
+-  HTML & CSS writing EMMET
+-  Code Completion
+   
+3. What do the following commands do?
+- pwd: writes the standard output of the full path name of current directory
+- ls: List files in the current directory
+- cd: change current working directory
+- mkdir: make a new directory
+- touch:  update the timestamp of a file or directory. It can be used to create a new file if it does not already exist, or to update the timestamp of an existing file.
+   
+4. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? \(Arguments are extra instructions given to a command.\)
+   
 
