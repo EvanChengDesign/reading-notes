@@ -1,5 +1,5 @@
 # **Reading Notes**
-### Notes for Code Fellows Class 102D62
+### * *Notes for Code Fellows Class 102D62* *
 
 
 ### What is Growth Mindset? 
