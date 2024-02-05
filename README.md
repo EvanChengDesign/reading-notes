@@ -3,7 +3,11 @@
 
 
 ### What is Growth Mindset? 
-_Original Article:_ [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+_Original Article:_ [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)  
+
+>"Self, you need to embrace the growth mindset. The growth mindset is cool.”
+
+
 
 A perspective or belief that utilizes determination and effort, so you can transform and develop your self for the better. A Growth mindset encompasses the characteristics of having an open-mind and willinness for self-improvement. 
 
