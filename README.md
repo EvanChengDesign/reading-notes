@@ -15,6 +15,7 @@ _Original Article:_ [How you can benefit from a growth mindset](https://www.atla
 
   
 
-  
+# **About Me**
+
 
 
