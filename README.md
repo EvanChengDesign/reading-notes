@@ -17,10 +17,8 @@ A perspective or belief that utilizes determination and effort, so you can trans
 # **About**
 
   Name: Evan Cheng
-  
-  Industry: Graphic & Interactive Designer
-  
-  [GitHub Profile: EvanChengDesign](https://github.com/EvanChengDesign)
+Industry: Graphic & Interactive Designer
+[GitHub Profile: EvanChengDesign](https://github.com/EvanChengDesign)
 
 
 
