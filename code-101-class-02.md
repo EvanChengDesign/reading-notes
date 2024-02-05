@@ -17,7 +17,6 @@
 - file: determine what kind of file
 - ls -a: List contents of directory, including hidden files
 
-
 **Absolute & Relative Paths**  
 
 > There are 2 types of paths we can use, absolute and relative. Whenever we refer to a file or directory we are using one of these paths. Whenever we refer to a file or directory, we can, in fact, use either type of path (either way, the system will still be directed to the same location).
