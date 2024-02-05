@@ -5,7 +5,7 @@
 ### What is Growth Mindset? 
 _Original Article:_ [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)  
 
->"Self, you need to embrace the growth mindset. The growth mindset is cool.”
+> Self, you need to embrace the growth mindset. The growth mindset is cool.
 
 
 
