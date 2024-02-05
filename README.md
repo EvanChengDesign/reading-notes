@@ -3,7 +3,7 @@
 
 
 ### What is Growth Mindset? 
-##### With determination and effort, you can transform and develop your self for the better. Growth mindset encompasses having an open-mind and willinness for self-improvement. 
+##### A perspective or belief that utilizes determination and effort, so you can transform and develop your self for the better. A Growth mindset encompasses the characteristics of having an open-mind and willinness for self-improvement. 
 
 ### Reminders:
 - Don't be afraid to fail. Multiple attempts will be necessary. 
