@@ -15,7 +15,7 @@ A perspective or belief that utilizes determination and effort, so you can trans
   
 
 # **About Me**
-![profile image]<img width="100" alt="Small Profile" src="https://github.com/EvanChengDesign/reading-notes/assets/50004602/8f0c806f-4313-4748-8b6d-ff239071b8a7">  
+<img width="100" alt="Small Profile" src="https://github.com/EvanChengDesign/reading-notes/assets/50004602/8f0c806f-4313-4748-8b6d-ff239071b8a7">  
 
 Name: Evan Cheng  
 Industry: Graphic & Interactive Designer  
