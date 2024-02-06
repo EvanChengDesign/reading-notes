@@ -1,31 +1,39 @@
-# **Reading Notes**
-### _Notes for Code Fellows Class 102D62_
+# **Home**
 
+## Overview
 
-### What is Growth Mindset? 
-_Original Article:_ [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)  
+To organize reading notes for Code Fellows Class 102 and Class 201. Please see the table of contents below for each specific lesson's reading notes.
 
-> Self, you need to embrace the growth mindset. The growth mindset is cool.
+## Personal Introduction
 
+My name is Evan Cheng, I am a creative designer with a focus in graphic design and photography. Prior to starting my software development journey, I wasa public affairs specialist and combat camerman in the US Army.
 
+## Table of Contents
 
-A perspective or belief that utilizes determination and effort, so you can transform and develop your self for the better. A Growth mindset encompasses the characteristics of having an open-mind and willinness for self-improvement. 
+A.  **Class - Code 102 Reading Notes**
 
-#### Reminders:
-- Don't be afraid to fail. Multiple attempts will be necessary. 
-- Learn from your mistakes! Criticism from others can give you a new perspective. 
-- Surround yourself with high-achievers! Their success will push you to higher standards of work.
+1. [102.001](./code-102/code-102-class-001.md)
+2. [102.002]()
+3. [102.003]()
+4. [102.004]()
+5. [102.005]()
+6. [102.006]()
+7. [102.007]()
+8. [102.008]()
 
-  
-
-# **About Me**
-<img width="100" alt="Small Profile" src="https://github.com/EvanChengDesign/reading-notes/assets/50004602/8f0c806f-4313-4748-8b6d-ff239071b8a7">  
-
-Name: Evan Cheng  
-Industry: Graphic & Interactive Designer  
-[GitHub Profile: EvanChengDesign](https://github.com/EvanChengDesign)
-
-
-
-
-
+B. **Class - Code 201 Reading Notes**
+1. [201.001]()
+2. [201.002]()
+3. [201.003]()
+4. [201.004]()
+5. [201.005]()
+6. [201.006]()
+7. [201.007]()
+8. [201.008]()  
+1. [201.009]()
+2. [201.010]()
+3. [201.011]()
+4. [201.012]()
+5. [201.013]()
+6. [201.014]()
+7. [201.015]()
