@@ -3,7 +3,6 @@
 ## Article: _Git Tutorial: A Comprehensive Guide_
 
 ### **Notes Outline:**
-
 Pre-requisites: Understanding Terminal/Command Line is recommended before starting the tutorial.
 Version Control: It is a system for recording changes to files, facilitating revision history and collaboration.
 Local Version Control: Involves a single database on the hard disk for storing changes to files.
