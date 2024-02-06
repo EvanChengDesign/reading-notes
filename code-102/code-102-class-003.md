@@ -1,5 +1,5 @@
 # **Reading Notes | 6 FEB 2024**
-
+# Class 003
 ## Article: _Git Tutorial: A Comprehensive Guide_
 
 ### **Notes Outline:**

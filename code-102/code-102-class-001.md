@@ -1,6 +1,7 @@
 # Summary of Article | 5 FEB 2024 
 _Original Article:_ [Getting Started: An overview of Markdown, how it works, and what you can do with it.](https://www.markdownguide.org/getting-started/)  
 
+# Class 001
 ### Outline:
 **I. Introduction**
 -   Markdown: lightweight markup language
