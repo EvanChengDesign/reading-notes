@@ -2,42 +2,38 @@
 
 ## Article: _Git Tutorial: A Comprehensive Guide_
 
-I. Introduction to Git   
-A. Definition and purpose   
-B. Importance in version control   
-   
-II. Getting Started   
-A. Installation   
-B. Configuration
 
-III. Basic Commands   
-A. git init   
-B. git add   
-C. git commit   
-D. git status   
-E. git log
+Notes Outline:
 
-IV. Repositories   
-A. Definition   
-B. Local vs Remote repositories   
-C. Cloning
+I. Pre-requisites
+   A. Understanding Terminal/Command Line
 
-V. Branching   
-A. Explanation   
-B. Creating branches   
-C. Switching between branches
+II. Version Control
+   A. Definition
+   B. Purpose
 
-VI. Merge and Conflict Resolution   
-A. Merging branches   
-B. Handling conflicts
+III. Local Version Control
+   A. Explanation
+   B. Implementation
 
-VII. Further Commands and Advanced Topics   
-A. git push   
-B. git pull   
-C. git fetch   
-D. git rebase
+IV. Centralized Version Control
+   A. Need for collaboration
+   B. Functionality
 
+V. Distributed Version Control
+   A. Addressing vulnerabilities
+   B. Mirrored repositories
 
+VI. Introduction to Git
+   A. Definition
+   B. Core concepts
+      1. Snapshots
+      2. Local Operations
+      3. Tracking Changes
+      4. Loss of Data
+      5. States
+      a. Committed
+      b. Modified
 
 ## **Questions:**
 
