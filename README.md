@@ -13,13 +13,13 @@ My name is Evan Cheng, I am a creative designer with a focus in graphic design a
 A.  **Class - Code 102 Reading Notes**
 
 1. [102.001](./code-102/code-102-class-001.md)
-2. [102.002]()
-3. [102.003]()
-4. [102.004]()
-5. [102.005]()
-6. [102.006]()
-7. [102.007]()
-8. [102.008]()
+2. [102.002](./code-102/code-102-class-002.md)
+3. [102.003](./code-102/code-102-class-003.md)
+4. [102.004](./code-102/code-102-class-004.md)
+5. [102.005](./code-102/code-102-class-005.md)
+6. [102.006](./code-102/code-102-class-006.md)
+7. [102.007](./code-102/code-102-class-007.md)
+8. [102.008](./code-102/code-102-class-008.md)
 
 B. **Class - Code 201 Reading Notes**
 1. [201.001]()
