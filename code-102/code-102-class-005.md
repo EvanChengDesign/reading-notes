@@ -24,7 +24,13 @@ When a browser reads a style sheet, it will format the HTML document according t
 <details>
 <summary> CSS Color Property:</summary>
 The color property specifies the color of text.
-</details>
+</details>  
+
+
+
+Selector: *What* element(s) to style.  
+Code Block: *where* Input rules here.  
+Rules: *how* key: values;
 
 ## **Questions & Answers:**
 
