@@ -6,7 +6,7 @@ Read: 05 - Design web pages with CSS
 
 ### **Notes Outline:**
 
-### *Bookmarks:* 
+### *Bookmarks:*
 
 [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
 [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
