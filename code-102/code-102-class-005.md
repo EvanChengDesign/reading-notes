@@ -34,3 +34,6 @@ The color property specifies the color of text.
 - The element  
 
 3. **Write an example of a CSS rule that would give all \<p> elements red text?**
+
+>p { color: red;  
+}
