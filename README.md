@@ -6,7 +6,7 @@ To organize reading notes for Code Fellows Class 102 and Class 201. Please see t
 
 ## Personal Introduction
 
-My name is Evan Cheng, I am a creative designer with a focus in graphic design and photography. Prior to starting my software development journey, I wasa public affairs specialist and combat camerman in the US Army.
+My name is Evan Cheng, I am a creative designer with a focus in graphic design and photography. Prior to starting my software development journey, I was a public affairs specialist and combat camerman in the US Army.
 
 ## Table of Contents
 
