@@ -4,7 +4,7 @@
 
 Read: 06 - Dynamic web pages with JavaScript
 
-*Bookmark:* 
+*Bookmark:*
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 ### **Notes Outline** 
 
