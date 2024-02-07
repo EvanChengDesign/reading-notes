@@ -12,6 +12,7 @@ Javascript:
 
 JavaScript is a high-level, interpreted programming language primarily used for creating dynamic and interactive content on web pages. It was originally created to add interactivity to web pages in web browsers, but it has since evolved to be used for server-side development (with Node.js), mobile app development (with frameworks like React Native), and even desktop application development (with frameworks like Electron).
 
+
 JavaScript enables developers to:
 
 - Manipulate HTML and CSS to dynamically update the content and styling of web pages.  
