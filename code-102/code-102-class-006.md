@@ -21,7 +21,7 @@ JavaScript enables developers to:
 - Build complex web applications with frameworks and libraries like React, Angular, and Vue.js.  
 - JavaScript is a core technology of the web alongside HTML and CSS, and it's supported by all modern web browsers without the need for plugins.
 
-## **Questions & Answers:**
+### **Questions & Answers:**
 
 1. **What are variables in JavaScript?** 
 Variables in JavaScript are containers used to store data values. To create a variable we use the keyword: "let" or "const"
