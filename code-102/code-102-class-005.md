@@ -6,6 +6,11 @@ Read: 05 - Design web pages with CSS
 
 ### **Notes Outline:**
 
+### *Bookmarks:* 
+
+[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
+[CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+
 <details>
 <summary> What is CSS:</summary>
 CSS is known as cascading style sheets. It is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
