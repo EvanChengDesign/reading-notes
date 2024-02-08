@@ -5,7 +5,6 @@
 Read: 08 - Operators and Loops
 
 ### **Notes Outline**  
-
 **Expressions**  
 At a high level, an expression is a valid unit of code that resolves to a value. There are two types of expressions: those that have side effects (such as assigning values) and those that purely evaluate.
 
