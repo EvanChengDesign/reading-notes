@@ -8,40 +8,48 @@ Read: 07 - Programming with JavaScript
 
 ### **Notes Outline** 
 
-Javascript:  
+**Javascript Functions:**
 
 1. Stay in rythm
     - Teach topic x. Read topic x. Practice topic x.  
 
+A JavaScript function is a block of code designed to perform a particular task.  
+
+A JavaScript function is executed when "something" invokes it (calls it).  
+
+A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().  
+Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).  
+The parentheses may include parameter names separated by commas: (parameter1, parameter2, ...)  
+  
+>function name(parameter1, parameter2, parameter3) {
+  // code to be executed
+}  
+The code to be executed, by the function, is placed inside curly brackets: {}  
+
+**The () Operator:**  
+The () operator invokes (calls) the function:
+
+>function toCelsius(fahrenheit)  
+{
+  return (5/9) * (fahrenheit-32);
+}
+>let value = toCelsius(77);
+(key is to add the values)
+
 **Control Flow:**  
 The *control flow* is the order in which the computer executes statements in a script.
-
-
-
-
-
-JavaScript is a high-level, interpreted programming language primarily used for creating dynamic and interactive content on web pages. It was originally created to add interactivity to web pages in web browsers, but it has since evolved to be used for server-side development (with Node.js), mobile app development (with frameworks like React Native), and even desktop application development (with frameworks like Electron).
-
-JavaScript enables developers to:
-
-- Manipulate HTML and CSS to dynamically update the content and styling of web pages.  
-- Respond to user interactions such as clicks, mouse movements, and keyboard inputs.  
-- Fetch data from servers asynchronously using AJAX or Fetch API.  
-- Create interactive web applications, games, and multimedia content.  
-- Build complex web applications with frameworks and libraries like React, Angular, and Vue.js.  
-- JavaScript is a core technology of the web alongside HTML and CSS, and it's supported by all modern web browsers without the need for plugins.
+Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.  
 
 ### **Questions & Answers:**
 
+1. **What is control flow?**  
+Control flow refers to the order in which the instructions within a program are executed. It determines the path the program takes based on conditions and decisions made during execution. Essentially, control flow governs the flow of execution through the code, determining which statements are executed next based on the logic and conditions specified in the program.  
 
-
-1. **What is control flow?** 
-Variables in JavaScript are containers used to store data values. To create a variable we use the keyword: "let" or "const"
 2. **What is a Javascript Function?**  
-Declaring a variable means to formally introduce it within the code. Specifying the name, and its initial value.  
+A JavaScript function is a block of reusable code that performs a specific task or calculates a value. Functions are one of the fundamental building blocks of JavaScript programming and are used to organize code, make it more modular, and promote code reuse.  
 
 3. **What does it mean to invoke - or call - a function?**  
-An assignment operator is a symbol or set of symbols used in programming to assign a value to a variable  
+Invoking or calling a function in JavaScript means executing the code within the function's body. When you invoke a function, you're telling JavaScript to run the instructions defined within that function.
 
 4. **What are the parenthesis () for when you define a function?**  
-Information received from the user in a computer program is typically referred to as "input." Input can take various forms, such as text entered via a keyboard, selections made from a dropdown menu, clicks on a graphical user interface (GUI), or interactions with other input devices like a mouse or touchscreen.
+In JavaScript, parentheses () are used when defining a function to enclose the parameters that the function accepts. These parameters represent placeholders for values that can be passed into the function when it is called.
