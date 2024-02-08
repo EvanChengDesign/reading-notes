@@ -4,7 +4,9 @@
 
 Read: 07 - Programming with JavaScript
 
-*Bookmark:*
+*Bookmarks:*  
+[Expressions & Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)  
+[Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 ### **Notes Outline** 
 
