@@ -5,10 +5,20 @@
 Read: 07 - Programming with JavaScript
 
 *Bookmark:*
-[Youtube Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
 ### **Notes Outline** 
 
 Javascript:  
+
+1. Stay in rythm
+    - Teach topic x. Read topic x. Practice topic x.  
+
+**Control Flow:**  
+The *control flow* is the order in which the computer executes statements in a script.
+
+
+
+
 
 JavaScript is a high-level, interpreted programming language primarily used for creating dynamic and interactive content on web pages. It was originally created to add interactivity to web pages in web browsers, but it has since evolved to be used for server-side development (with Node.js), mobile app development (with frameworks like React Native), and even desktop application development (with frameworks like Electron).
 
@@ -23,13 +33,15 @@ JavaScript enables developers to:
 
 ### **Questions & Answers:**
 
-1. **What are variables in JavaScript?** 
+
+
+1. **What is control flow?** 
 Variables in JavaScript are containers used to store data values. To create a variable we use the keyword: "let" or "const"
-2. **What does it mean to declare a variable?**  
+2. **What is a Javascript Function?**  
 Declaring a variable means to formally introduce it within the code. Specifying the name, and its initial value.  
 
-3. **What is an “assignment” operator, and what does it do?**  
+3. **What does it mean to invoke - or call - a function?**  
 An assignment operator is a symbol or set of symbols used in programming to assign a value to a variable  
 
-4. **What is information received from the user called?**  
+4. **What are the parenthesis () for when you define a function?**  
 Information received from the user in a computer program is typically referred to as "input." Input can take various forms, such as text entered via a keyboard, selections made from a dropdown menu, clicks on a graphical user interface (GUI), or interactions with other input devices like a mouse or touchscreen.
