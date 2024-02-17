@@ -10,7 +10,7 @@ My name is Evan Cheng, I am a creative designer with a focus in graphic design a
 
 ## Table of Contents
 
-A.  **Class - Code 102 Reading Notes**
+A.  **Class - Code 102 - Intro to Software Development Reading Notes**
 
 1. [102.001](./code-102/code-102-class-001.md)
 2. [102.002](./code-102/code-102-class-002.md)
@@ -21,7 +21,7 @@ A.  **Class - Code 102 Reading Notes**
 7. [102.007](./code-102/code-102-class-007.md)
 8. [102.008](./code-102/code-102-class-008.md)
 
-B. **Class - Code 201 Reading Notes**
+B. **Class - Code 201 - Foundations of Software Development Reading Notes**
 1. [201.001]()
 2. [201.002]()
 3. [201.003]()
