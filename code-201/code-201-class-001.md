@@ -93,5 +93,31 @@ Section: This element is used to group related content together within a documen
     
 
 11. How is the \<meta> HTML tag used when specifying metadata?  
-  
+
 The \<meta> HTML tag is used to specify metadata within the \<head> section of an HTML document. It doesn't have a closing tag and is self-closing. Metadata specified with the \<meta> tag includes information like the character encoding of the document (charset attribute), viewport settings for responsive design (viewport attribute), and directives for search engines such as robots (robots attribute). Additionally, the \<meta> tag is commonly used to define the title (title attribute) and description (description attribute) of a webpage for search engine optimization (SEO) purposes.
+
+12. What is the first step to designing a website?  
+
+  What do you want to accomplish? When you get an idea and want to turn it into a website, there are a few questions you should answer before anything else: What exactly do I want to accomplish? How will a website help me reach my goals? What needs to be done, and in what order, to reach my goals?  
+
+All of this is called project ideation and is a necessary first step to reach your goal, whether you are a beginner or an experienced developer.  
+
+13. What is the most important question to answer when designing a Website?  
+What exactly do I want to accomplish?  
+
+14. Why should you use an \<h1> element over a \<span> element to display a top level heading?  
+
+ Using an \<h1> element for top-level headings provides semantic meaning, improves accessibility, enhances SEO, and promotes consistency in styling, making it the preferred choice over using a \<span> element.  
+
+15. What are the benefits of using semantic tags in our HTML?  
+
+Using semantic tags in HTML promotes accessibility, enhances SEO, improves code readability and maintainability, clarifies document structure, and encourages consistency and reusability in website development.  
+
+16. Describe 2 things that require JavaScript in the Browser?  
+
+Form validation and dynamic content such as interactive maps or sliders.  
+
+17. How can you add JavaScript to an HTML document?  
+  
+You can inject JavaScript into HTMl by using the \<script></script> tag. This can be an inline script, an external script file, or event attributes.
+
