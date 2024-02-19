@@ -16,7 +16,7 @@ JavaScript is a programming language that adds interactivity to your website. If
 
 ## **Questions & Answers:**  
 
-1. Compose a short poem describing how HTTP sends data between computers.  
+**Compose a short poem describing how HTTP sends data between computers.** 
 
 *When you type a website's name and hit "go,"
 Your computer sends a request to and fro.
@@ -27,7 +27,7 @@ Your screen assembles them, one and all.
 HTTP, the messenger, makes it clear,
 Connecting computers, far and near.*
 
-2. Describe how HTML, CSS, and JS files are “parsed” in the browser.  
+**Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
 Imagine you have a recipe for making a cake. HTML is like the main ingredients list, telling you what you need. CSS is like the decorations and colors you use to make the cake look pretty. JavaScript is like the special instructions that tell you what to do with the ingredients and decorations.
 
@@ -37,11 +37,11 @@ After that, it's time for JavaScript. The browser reads through the JavaScript i
 
 So, HTML, CSS, and JavaScript are like different parts of a recipe that the browser follows step by step to create and display a webpage. It's like making a cake: first, you gather your ingredients (HTML), then you decorate it (CSS), and finally, you add special touches (JavaScript) to make it just right.  
 
-3. How can you find images to add to a Website?  
+**How can you find images to add to a Website?**
 
 There are many ways to find images to add to your website. options include search engines, stopk photo websites, graphic design tools, social media, or even creating your own.  
 
-4. How do you create a String vs a Number in JavaScript?  
+**How do you create a String vs a Number in JavaScript?** 
 
 String: This is a sequence of text known as a string. To signify that the value is a string, enclose it in single or double quote marks.  
   
@@ -51,17 +51,17 @@ String: This is a sequence of text known as a string. To signify that the value 
 
     let myVariable = 10;
 
-5. What is a Variable and why are they important in JavaScript?  
+**What is a Variable and why are they important in JavaScript?**
 
 Variables are containers that store values. You start by declaring a variable with the let keyword, followed by the name you give to the variable:
 
-6. What is an HTML attribute?  
+**What is an HTML attribute?**
 
 An HTML attribute is additional information or properties that you can add to HTML elements to provide more details about them or to specify how they should behave. Attributes are added directly within the opening tag of an HTML element and consist of a name and a value, separated by an equals sign (=).
 
 For example, in the HTML code \<img src="example.jpg" alt="Example Image">, **src** and **alt** are attributes.  
 
-7. Describe the Anatomy of an HTMl element.  
+**Describe the Anatomy of an HTMl element.**
 
 Example: \<a href="<https://example.com">Click> here to visit Example\</a>  
 
@@ -70,7 +70,7 @@ Attribute: href="<https://example.com>"
 Content: Click here to visit Example  
 Closing Tag: \</a>  
 
-8. What is the Difference between \<article> and \<section> element tags?  
+**What is the Difference between \<article> and \<section> element tags?**
   
 Both the \<article> and \<section> elements are used to divide content into meaningful sections in HTML, but they have different purposes and semantic meanings:
   
@@ -78,7 +78,7 @@ Article: This element represents a self-contained piece of content that could be
 
 Section: This element is used to group related content together within a document. It doesn't imply any particular meaning about the content it contains and is more generic in nature.
 
-9. What Elements does a “typical” website include?  
+**What Elements does a “typical” website include?** 
     • Header
     • Body  
     • Nav  
@@ -87,35 +87,36 @@ Section: This element is used to group related content together within a documen
     • Sections/Article  
     • Footer  
 
-10. How does metadata influence Search Engine Optimization?  
+**How does metadata influence Search Engine Optimization?**
   
   Metadata in SEO, like title tags and meta descriptions, provides search engines with concise information about a webpage's content. Optimizing metadata with relevant keywords can improve a page's visibility and click-through rates in search results. Additionally, structured data markup such as schema.org can enhance search engine understanding of page content, leading to richer search results.  
 
-11. How is the \<meta> HTML tag used when specifying metadata?  
+**How is the \<meta> HTML tag used when specifying metadata?**
 
 The \<meta> HTML tag is used to specify metadata within the \<head> section of an HTML document. It doesn't have a closing tag and is self-closing. Metadata specified with the \<meta> tag includes information like the character encoding of the document (charset attribute), viewport settings for responsive design (viewport attribute), and directives for search engines such as robots (robots attribute). Additionally, the \<meta> tag is commonly used to define the title (title attribute) and description (description attribute) of a webpage for search engine optimization (SEO) purposes.
 
-12. What is the first step to designing a website?  
+**What is the first step to designing a website?**
 
   What do you want to accomplish? When you get an idea and want to turn it into a website, there are a few questions you should answer before anything else: What exactly do I want to accomplish? How will a website help me reach my goals? What needs to be done, and in what order, to reach my goals?  
 
 All of this is called project ideation and is a necessary first step to reach your goal, whether you are a beginner or an experienced developer.  
 
-13. What is the most important question to answer when designing a Website?  
+**What is the most important question to answer when designing a Website?**  
+
 What exactly do I want to accomplish?  
 
-14. Why should you use an \<h1> element over a \<span> element to display a top level heading?  
+**Why should you use an \<h1> element over a \<span> element to display a top level heading?**  
 
  Using an \<h1> element for top-level headings provides semantic meaning, improves accessibility, enhances SEO, and promotes consistency in styling, making it the preferred choice over using a \<span> element.  
 
-15. What are the benefits of using semantic tags in our HTML?  
+**What are the benefits of using semantic tags in our HTML?**
 
 Using semantic tags in HTML promotes accessibility, enhances SEO, improves code readability and maintainability, clarifies document structure, and encourages consistency and reusability in website development.  
 
-16. Describe 2 things that require JavaScript in the Browser?  
+**Describe 2 things that require JavaScript in the Browser?**
 
 Form validation and dynamic content such as interactive maps or sliders.  
 
-17. How can you add JavaScript to an HTML document?  
+**How can you add JavaScript to an HTML document?** 
   
 You can inject JavaScript into HTMl by using the \<script></script> tag. This can be an inline script, an external script file, or event attributes.
