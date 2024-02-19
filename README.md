@@ -38,7 +38,9 @@ B. **Class - Code 201 - Foundations of Software Development Reading Notes**
 6. [201.014]()
 7. [201.015]()  
 
-[202 Pre-work: Ai Prompt & Response Assignment](./code-201/prompt-engineering.md)
+[202 Pre-work: Ai Prompt & Response Assignment](./code-201/prompt-engineering.md)  
+
+[Things I Want To Know More About](./code-201/things-i-want-to-know-more-about.md)
 
 C. **Class - Code 301 - Intermediate Software Development Reading Notes**  
 
