@@ -23,8 +23,8 @@ A.  **Class - Code 102 - Intro to Software Development Reading Notes**
 
 B. **Class - Code 201 - Foundations of Software Development Reading Notes**
 1. [201.001](./code-201/code-201-class-001.md)
-2. [201.002]()
-3. [201.003]()
+2. [201.002](./code-201/code-201-class-002.md)
+3. [201.003](./code-201/code-201-class-003.md)
 4. [201.004]()
 5. [201.005]()
 6. [201.006]()
