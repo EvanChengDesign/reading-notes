@@ -11,8 +11,7 @@
 ### **Notes Outline:**  
 
 **Getting Started:**  
-In this article, we look at the 
-
+In this article, we look at the
 
 ## **Questions & Answers:**  
 

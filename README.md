@@ -25,7 +25,7 @@ B. **Class - Code 201 - Foundations of Software Development Reading Notes**
 1. [201.001](./code-201/code-201-class-001.md)
 2. [201.002](./code-201/code-201-class-002.md)
 3. [201.003](./code-201/code-201-class-003.md)
-4. [201.004]()
+4. [201.004](./code-201/code-201-class-004.md)
 5. [201.005]()
 6. [201.006]()
 7. [201.007]()
