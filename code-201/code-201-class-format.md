@@ -26,4 +26,13 @@
         • GPT Help  
         • Help each other!
 
-*4pm-5pm* 
+*4pm-5pm*  
+
+        • Accountability Team
+        • Career Work Check In
+        • Lab Prep
+        • Lab Work 
+        • Journal
+
+
+*5pm-8pm*  
