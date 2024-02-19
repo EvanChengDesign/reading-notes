@@ -56,17 +56,17 @@ String: This is a sequence of text known as a string. To signify that the value 
 Variables are containers that store values. You start by declaring a variable with the let keyword, followed by the name you give to the variable:
 
 6. What is an HTML attribute?  
- 
+
 An HTML attribute is additional information or properties that you can add to HTML elements to provide more details about them or to specify how they should behave. Attributes are added directly within the opening tag of an HTML element and consist of a name and a value, separated by an equals sign (=).
 
 For example, in the HTML code \<img src="example.jpg" alt="Example Image">, **src** and **alt** are attributes.  
 
 7. Describe the Anatomy of an HTMl element.  
 
-Example: \<a href="https://example.com">Click here to visit Example\</a>  
+Example: \<a href="<https://example.com">Click> here to visit Example\</a>  
 
-Opening Tag: \<a href="https://example.com">  
-Attribute: href="https://example.com"  
+Opening Tag: \<a href="<https://example.com">>  
+Attribute: href="<https://example.com>"  
 Content: Click here to visit Example  
 Closing Tag: \</a>  
 
@@ -82,7 +82,7 @@ Section: This element is used to group related content together within a documen
     • Header
     • Body  
     • Nav  
-    ¶ Headings  
+    • Headings  
     • Links, Images, Forms, Tables  
     • Sections/Article  
     • Footer  
@@ -90,7 +90,6 @@ Section: This element is used to group related content together within a documen
 10. How does metadata influence Search Engine Optimization?  
   
   Metadata in SEO, like title tags and meta descriptions, provides search engines with concise information about a webpage's content. Optimizing metadata with relevant keywords can improve a page's visibility and click-through rates in search results. Additionally, structured data markup such as schema.org can enhance search engine understanding of page content, leading to richer search results.  
-    
 
 11. How is the \<meta> HTML tag used when specifying metadata?  
 
@@ -120,4 +119,3 @@ Form validation and dynamic content such as interactive maps or sliders.
 17. How can you add JavaScript to an HTML document?  
   
 You can inject JavaScript into HTMl by using the \<script></script> tag. This can be an inline script, an external script file, or event attributes.
-
