@@ -12,7 +12,7 @@ Read: 07 - Programming with JavaScript
 
 **Javascript Functions:**
 
-1. Stay in rythm
+1. Stay in rhythm
     - Teach topic x. Read topic x. Practice topic x.  
 
 A JavaScript function is a block of code designed to perform a particular task.  

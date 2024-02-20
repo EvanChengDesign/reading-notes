@@ -39,7 +39,7 @@ So, HTML, CSS, and JavaScript are like different parts of a recipe that the brow
 
 **How can you find images to add to a Website?**
 
-There are many ways to find images to add to your website. options include search engines, stopk photo websites, graphic design tools, social media, or even creating your own.  
+There are many ways to find images to add to your website. options include search engines, stock photo websites, graphic design tools, social media, or even creating your own.  
 
 **How do you create a String vs a Number in JavaScript?** 
 

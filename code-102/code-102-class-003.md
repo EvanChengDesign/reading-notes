@@ -29,7 +29,7 @@ Centralized Version Control: Utilizes a single server to store all changes and v
 ## **Questions:**
 
 1. What is Version Control?
-   Version control is a ssystem that allows you to revisiti older versiobs of files and make changes or modifications.
+   Version control is a system that allows you to revisit older versions of files and make changes or modifications.
 3. What is cloning in Git?
    You can duplicate a file and create a test version or directory. This file has copies of all version of all files of the specific project.
 5.What is the command to track and stage files?

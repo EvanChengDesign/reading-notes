@@ -10,7 +10,7 @@
 
 **Commands**  
 - PWD: Print Working Directory (current or present working directory)
-- CD: Change Directory (no argument -> home direcotry
+- CD: Change Directory (no argument -> home directory)
 - ls: List the contents of a directory
 - -l: Long Listing
 - Tab Completion: invoke an auto complete action
@@ -32,8 +32,8 @@ Everything is a file
 - file.png, file.gif, file.jpg - an image.
 
 Escape Characters
-(\) The backslash nullifies the special meaninng of the next character.  
-Holiday\ Photos (nullfifies the double space and renders it into a regular pucntuation space)
+(\) The backslash nullifies the special meaning of the next character.  
+Holiday\ Photos (nullifies the double space and renders it into a regular punctuation space)
  
 ## **Questions**
 
