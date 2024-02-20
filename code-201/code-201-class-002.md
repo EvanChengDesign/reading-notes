@@ -132,9 +132,9 @@ The else if statement follows an if statement and must come before the else stat
     2. Not equal to: '!=' or '!==' (checks value and type)  
     3. Greater than: '>'
 
-**What is the difference between the logical operator && and ||?**  
-The logical operators && (logical AND) and || (logical OR) are used to combine multiple conditions in JavaScript. They differ in how they evaluate expressions and return a result:   
- 
+**What is the difference between the logical operator \&& and \||?**  
+The logical operators && (logical AND) and || (logical OR) are used to combine multiple conditions in JavaScript. They differ in how they evaluate expressions and return a result:
+
 The && operator returns true if both operands are true, and false otherwise.  
 
-The || operator returns true if at least one of the operands is true, and false otherwise.
+The \|| operator returns true if at least one of the operands is true, and false otherwise.
