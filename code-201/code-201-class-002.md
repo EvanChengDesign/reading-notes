@@ -108,10 +108,33 @@ A real-world problem that could be solved with a function is calculating the tot
 Let's say you're developing a website, and you need to implement a feature that calculates the total cost of items in a user's shopping cart. You can create a function to handle this task that utilizes arrays and a for statement, to return the total cost.
 
 **An if statement checks a __ and if it evaluates to ___, then the code block will execute.**  
+The statement checks a condition and evaluates true or false, based on whether the condition is true or false, respectively. 
 
 **What is the use of an else if?**  
+The else if statement follows an if statement and must come before the else statement. It introduces a new condition to test if the previous if statements condition is false. 
+     
+    let x = 10;
+
+    if (x > 10) {
+    console.log("x is greater than 10");
+    } else if (x === 10) {
+    console.log("x is equal to 10");
+    } else {
+    console.log("x is less than 10");
+    }If x is greater than 10, the message "x is greater than 10" is logged. 
+
+    If x is equal to 10, the message "x is equal to 10" is logged.  
+
+    If neither of the above conditions is true (i.e., if x is less than 10), the message "x is less than 10" is logged.  
 
 **List 3 different types of comparison operators.**  
+    1. Equal to: '==' or '==='  
+    2. Not equal to: '!=' or '!==' (checks value and type)  
+    3. Greater than: '>'
 
-**What is the difference between the logical operator && and ||?**
+**What is the difference between the logical operator && and ||?**  
+The logical operators && (logical AND) and || (logical OR) are used to combine multiple conditions in JavaScript. They differ in how they evaluate expressions and return a result:   
+ 
+The && operator returns true if both operands are true, and false otherwise.  
 
+The || operator returns true if at least one of the operands is true, and false otherwise.
