@@ -33,7 +33,30 @@ Switch Statements:
         console.log("What?");
         break;
     }
+Array:  
+A List of variables  
+Beware of the "off by 1 errors"  
+use >, don't use >=
 
+    Let wife = "cathy"
+  
+    ex: Let people = ["John", "John", "Zach", wife];
+
+Iterate:
+
+To iterate over an array in JavaScript means to sequentially access each element of the array and perform some operation on it. Iteration allows you to loop through each item in the array, accessing its value and index, and potentially performing some action or computation with each element.
+
+    ex: let pets = ["Rosie", "Geno", "Rocky"];
+        for( let i = 0; i< pets.length; i++ ) {
+            console.log( pets[i].toUpperCase() );
+        }
+
+    Console Output: 
+    ROSIE
+    GENO
+    ROCKY
+
+    The function iterates for each item in the array and converts the strings within to all uppercase. 
 
 
 ### **Questions & Answers**  
