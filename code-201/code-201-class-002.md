@@ -60,6 +60,7 @@ To iterate over an array in JavaScript means to sequentially access each element
 
 
 ### **Questions & Answers**  
+
 **Why is it important to use semantic elements in our HTML?**  
 Semantic elements are conducive to higher accessibility ratings.  
 
@@ -69,5 +70,5 @@ There are six heading elements. from h1 to h6.
 **What are some uses for the \<sup> and \<sub> elements?**  
 These elements are used for superscript and subscript marking up.  
 
-**When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?**   
+**When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?**
 If providing the expansion in addition to the abbreviation makes little sense, and the abbreviation or acronym is a fairly shortened term, provide the full expansion of the term as the value of title attribute:
