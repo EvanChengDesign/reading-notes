@@ -98,10 +98,10 @@ A sequence of text enclosed in single quote marks in JavaScript represents a str
 
 **List 4 types of JavaScript operators.**
 
-1. Assignment: (let x = 10;)
-2. Logical: \(let isTrue = true && false; Logical AND) \(let isFalse = true || false; Logical OR)  
-3. Comparison: (letEqual = 10 === 5; Equal to (strict equality))
-4. Arithmetic: (let result = 10 + 5; Addition)  
+1. Assignment: let x = 10;
+2. Logical: let isTrue = true && false; Logical  
+3. Comparison: letEqual = 10 === 5; Equal to (strict equality)
+4. Arithmetic: let result = 10 + 5; Addition 
 
 **Describe a real world problem you could solve with a Function.**  
 A real-world problem that could be solved with a function is calculating the total cost of items in a shopping cart.
@@ -109,7 +109,7 @@ A real-world problem that could be solved with a function is calculating the tot
 Let's say you're developing a website, and you need to implement a feature that calculates the total cost of items in a user's shopping cart. You can create a function to handle this task that utilizes arrays and a for statement, to return the total cost.
 
 **An if statement checks a __ and if it evaluates to ___, then the code block will execute.**  
-The statement checks a condition and evaluates true or false, based on whether the condition is true or false, respectively. 
+The statement checks a condition and evaluates true or false, based on whether the condition is true or false, respectively.
 
 **What is the use of an else if?**  
 The else if statement follows an if statement and must come before the else statement. It introduces a new condition to test if the previous if statements condition is false. 
