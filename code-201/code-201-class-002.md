@@ -97,8 +97,9 @@ While inline styles can be convenient for quickly applying styles to individual 
 A sequence of text enclosed in single quote marks in JavaScript represents a string data type. Strings in JavaScript are used to store and manipulate textual data, such as words, sentences, or any sequence of characters. Here's an example:
 
 **List 4 types of JavaScript operators.**
+
 1. Assignment: (let x = 10;)
-2. Logical: (let isTrue = true && false; Logical AND) (let isFalse = true || false; Logical OR)  
+2. Logical: \(let isTrue = true && false; Logical AND) \(let isFalse = true || false; Logical OR)  
 3. Comparison: (letEqual = 10 === 5; Equal to (strict equality))
 4. Arithmetic: (let result = 10 + 5; Addition)  
 
