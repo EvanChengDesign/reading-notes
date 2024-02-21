@@ -9,6 +9,7 @@
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
 ### **Notes Outline:**
+
 let: allows variable to change.  
 ex: let wife = "Cathy";
 wife = "Cathy"  
@@ -58,7 +59,6 @@ To iterate over an array in JavaScript means to sequentially access each element
 
     The function iterates for each item in the array and converts the strings within to all uppercase. 
 
-
 ### **Questions & Answers**  
 
 **Why is it important to use semantic elements in our HTML?**  
@@ -74,24 +74,25 @@ These elements are used for superscript and subscript marking up.
 If providing the expansion in addition to the abbreviation makes little sense, and the abbreviation or acronym is a fairly shortened term, provide the full expansion of the term as the value of title attribute:  
 **What are ways we can apply CSS to our HTML?**  
 There are several ways to apply CSS styles to HTML elements:  
+
 1. Inline Styles  
 2. Internal Stylesheets
 3. External Stylesheets
-4. CSS Frameworks 
+4. CSS Frameworks
 
 **Why should we avoid using inline styles?**  
 While inline styles can be convenient for quickly applying styles to individual HTML elements, they are generally considered poor practice for several reasons. These include maintainability, readability, specificity, and separation of concerns.
 
 **What is representing the selector?**  
-      
+
       h2  
 
 **Which components are the CSS declarations?**  
-      
+
       color & padding
 
 **Which components are considered properties?**  
-      
+
       black and 5px 
 **What data type is a sequence of text enclosed in single quote marks?**  
 A sequence of text enclosed in single quote marks in JavaScript represents a string data type. Strings in JavaScript are used to store and manipulate textual data, such as words, sentences, or any sequence of characters. Here's an example:
@@ -101,7 +102,7 @@ A sequence of text enclosed in single quote marks in JavaScript represents a str
 1. Assignment: let x = 10;
 2. Logical: let isTrue = true && false; Logical  
 3. Comparison: letEqual = 10 === 5; Equal to (strict equality)
-4. Arithmetic: let result = 10 + 5; Addition 
+4. Arithmetic: let result = 10 + 5; Addition
 
 **Describe a real world problem you could solve with a Function.**  
 A real-world problem that could be solved with a function is calculating the total cost of items in a shopping cart.
@@ -112,8 +113,8 @@ Let's say you're developing a website, and you need to implement a feature that 
 The statement checks a condition and evaluates true or false, based on whether the condition is true or false, respectively.
 
 **What is the use of an else if?**  
-The else if statement follows an if statement and must come before the else statement. It introduces a new condition to test if the previous if statements condition is false. 
-     
+The else if statement follows an if statement and must come before the else statement. It introduces a new condition to test if the previous if statements condition is false.
+
     let x = 10;
 
     if (x > 10) {
