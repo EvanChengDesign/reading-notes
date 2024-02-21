@@ -28,11 +28,35 @@ Two ways to change the numbers on list items provided by an ordered list:
 * Use CSS to style the numbering. You can change the color, size, or style of the numbers using properties like color, font-size, or list-style.
   
 ### **Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?**  
+Once upon a time in the enchanted land of CSS, there existed two characters named Margin and Padding. Margin was a friendly and outgoing character, always eager to create space and maintain harmony between elements. Padding, on the other hand, was more reserved and introspective, finding solace in providing comfort and support to the content within.  
+
+Margin, with its generous spirit, acted as a buffer between neighboring elements, ensuring that they had ample breathing room and did not encroach upon each other's territories. Margin's role was to maintain order and prevent elements from crowding each other, allowing each one to stand out and shine in its own right.
+
+Meanwhile, Padding, with its nurturing nature, enveloped the content within each element with tender care and protection. Padding offered a cozy sanctuary for the content, shielding it from the harsh exterior world and providing a soft cushion against the rigors of the digital realm. Padding's role was to enhance the user experience, ensuring that the content was presented in a visually appealing and comfortable manner.
+
+
 
 ### **List and describe the four parts of an HTML elements box as referred to by the box model.**  
-**What data types can you store inside of an Array?**  
+    1. Margin  
+    2. Border  
+    3. Padding  
+    4. Content  
+
+### **What data types can you store inside of an Array?**  
+You can store numerous amounts of data types in an array. Some of these include: 
+
+    1. numbers  
+    2. strings  
+    3. objects  
+    4. arrays
+    5. booleans
+    6. functions
 
 ### **Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?**  
+
+Yes, that is a valid array in JavaScript. It's a two-dimensional array, also known as an array of arrays. Each inner array represents information about a person, containing elements such as name, age, occupation, and hobbies.  
+  
+  To access the values stored in the two-dimensional array people, you can use array indexing. Since people is an array of arrays, you'll use two sets of square brackets to access specific elements. 
 
 ### **List five shorthand operators for assignment in javascript and describe what they do.**  
 
