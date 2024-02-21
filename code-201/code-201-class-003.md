@@ -6,6 +6,18 @@
 
 ## **Notes Outline:**  
 
+Cards & Decks
+
+Card: 1 "Piece" of content  
+    - Title  
+    - Media  
+    - Copy Content  
+    - CTA (Call to Action) Button
+
+Job is to display, arrange, and present content.  
+Deck job is to display cards and arrange them.  
+
+
 ## **Questions & Answers**  
 
 ### **When should you use an unordered list in your HTML document?**  
