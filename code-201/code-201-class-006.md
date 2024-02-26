@@ -6,9 +6,7 @@
 
 [What’s the Difference Between Primitive Values and Object References in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
 
-[How to Solve Programming Problems
-](https://simpleprogrammer.com/solving-problems-breaking-it-down/
-)
+[How to Solve Programming Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
   
 ## **Notes Outline:**
 
