@@ -15,4 +15,14 @@ EX: Browser is a environment, VSCode is a environment
 
 *.files* are hidden in the terminal. To view these hidden files, we use the ls -a or the ls -al commands to either reveal all files or reveal all files in long format.  
   
+## 26 FEB 2024  
+
+JavaSCript: math.random  
+
+In JavaScript, Math.random() is a built-in function that generates a pseudo-random floating-point number between 0 (inclusive) and 1 (exclusive). It returns a random number in the range \[0, 1), meaning it can return 0 but will never return 1.
+
+        function getRandomNumberBetween(min,max)
+            return Math.floor(Math.random() * (max-min+1) + min);
+        
+In JavaScript, Math.floor() is a built-in function that returns the largest integer less than or equal to a given number. It essentially rounds down a number to the nearest integer.
 
