@@ -26,3 +26,18 @@ In JavaScript, Math.random() is a built-in function that generates a pseudo-rand
         
 In JavaScript, Math.floor() is a built-in function that returns the largest integer less than or equal to a given number. It essentially rounds down a number to the nearest integer.
 
+### DOM: The DOCUMENT OBJECT MODEL  
+
+Browser: "Brings the document to life."
+
+    1. Reads the HTML
+    2. Renders it
+    3. Executes the JavaScript
+    4. Applies CSS styles  
+
+Coders have access to:  
+    1. modify parts of the page (add/remove)  
+    2. Inspect elements oe any property.
+  
+
+  
