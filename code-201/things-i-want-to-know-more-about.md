@@ -42,4 +42,13 @@ Coders have access to:
 ## 27 FEB 2024  
 
 ### Explain prototypes and inheritance via an analogy from your previous work experience.
+
+### Writing JavaSCript Code: 
+Keep it clean and ordered.
+ 1. Declare your variables.  
+ 2. Write your functions
+ 3. Use conditional statements.
+ 4. Use loops.
+ 5. Call the function tu run.
+
   
