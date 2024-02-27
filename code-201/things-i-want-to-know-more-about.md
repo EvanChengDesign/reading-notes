@@ -39,5 +39,7 @@ Coders have access to:
     1. modify parts of the page (add/remove)  
     2. Inspect elements oe any property.
   
+## 27 FEB 2024  
 
+### Explain prototypes and inheritance via an analogy from your previous work experience.
   
