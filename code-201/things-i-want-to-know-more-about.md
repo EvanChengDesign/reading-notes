@@ -53,3 +53,13 @@ Keep it clean and ordered.
  3. Use conditional statements.
  4. Use loops.
  5. Call the function tu run.
+  
+## 27 FEB 2024  
+
+In JavaScript, a prototype method is a method that is shared among all instances of a constructor function. When you create a constructor function and use the prototype property to define a method, that method becomes accessible to all objects created with that constructor function.
+
+Constructor Function: This is a function used to create objects with a specific structure. It typically initializes properties and methods that will be common to all instances created from it.
+
+Prototype Property: Every function in JavaScript has a special property called prototype. This property allows you to add properties and methods to all objects created with that function as a constructor.
+
+Prototype Method: When you add a method to the prototype property of a constructor function, that method becomes available to all instances created from that constructor. This allows you to define methods that are shared among all instances, rather than creating a separate function for each instance.
