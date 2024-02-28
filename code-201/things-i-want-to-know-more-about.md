@@ -9,6 +9,7 @@ What is the VSCode GoLive extension?
 What is the difference between Git Checkout and Git Switch?
 
 ## 20 FEB 2024  
+
 Where does my code go?  
 Environment: Place where the code runs  
 EX: Browser is a environment, VSCode is a environment
@@ -23,7 +24,7 @@ In JavaScript, Math.random() is a built-in function that generates a pseudo-rand
 
         function getRandomNumberBetween(min,max)
             return Math.floor(Math.random() * (max-min+1) + min);
-        
+
 In JavaScript, Math.floor() is a built-in function that returns the largest integer less than or equal to a given number. It essentially rounds down a number to the nearest integer.
 
 ### DOM: The DOCUMENT OBJECT MODEL  
@@ -41,14 +42,14 @@ Coders have access to:
   
 ## 27 FEB 2024  
 
-### Explain prototypes and inheritance via an analogy from your previous work experience.
+### Explain prototypes and inheritance via an analogy from your previous work experience
 
-### Writing JavaSCript Code: 
+### Writing JavaSCript Code
+
 Keep it clean and ordered.
+
  1. Declare your variables.  
  2. Write your functions
  3. Use conditional statements.
  4. Use loops.
  5. Call the function tu run.
-
-  
