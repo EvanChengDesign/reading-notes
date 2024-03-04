@@ -47,4 +47,4 @@ The srcset attribute in the <img> element allows specifying multiple image sourc
 
 ### How is srcset more helpful for responsive images than CSS or JavaScript??
 
-srcset is more helpful for responsive images than CSS or JavaScript because it allows browsers to choose the most appropriate image source based on device capabilities and viewport size without additional scripting or styling, improving performance a
+srcset is more helpful for responsive images than CSS or JavaScript because it allows browsers to choose the most appropriate image source based on device capabilities and viewport size without additional scripting or styling, improving performance and reducing page load times. 
