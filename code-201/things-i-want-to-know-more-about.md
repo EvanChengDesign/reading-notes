@@ -67,4 +67,28 @@ Prototype Method: When you add a method to the prototype property of a construct
 ## 4 MARCH 2024  
 
 Audio & Video:  
-\<figure> is the appropriate semantic to embed both audio and video.  
+\<figure> is the appropriate semantic to embed both audio and video. 
+
+CSS GRID: 
+
+CSS Grid is a powerful layout system that allows developers to create complex web layouts with ease. Here are some key concepts to understand:
+
+    Grid Container: This is an element that contains grid items. You can designate any element as a grid container by setting its display property to grid or inline-grid.
+
+    Grid Items: These are the children of the grid container that participate in the grid layout. They are positioned within the grid using grid lines and grid tracks.
+
+    Grid Lines: These are the horizontal and vertical lines that form the grid. Grid lines separate the rows and columns of the grid.
+
+    Grid Tracks: These are the spaces between the grid lines. You can think of them as the rows and columns of the grid. Grid tracks can be explicitly defined with size values (such as pixels or percentages) or automatically generated.
+
+    Grid Areas: These are rectangular areas within the grid layout that contain one or more grid items. You can define named grid areas using the grid-template-areas property.
+
+    Grid Template: This is a shorthand property that allows you to define the structure of the grid in terms of rows, columns, and grid areas. You can specify the size and alignment of grid tracks, as well as the placement of grid items.
+
+    Grid Line Numbers: Grid lines are numbered starting from 1. Negative line numbers count from the end of the grid.
+
+    Grid Placement: Grid items can be placed onto the grid using various properties like grid-row, grid-column, grid-area, etc.
+
+    Grid Spanning: Grid items can span multiple rows and/or columns using the grid-row and grid-column properties.
+
+    Alignment: CSS Grid provides powerful alignment capabilities for both grid items and the grid itself. You can align items within individual grid cells, as well as align the entire grid within its container.
