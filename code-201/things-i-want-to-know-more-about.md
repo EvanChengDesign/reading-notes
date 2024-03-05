@@ -67,9 +67,9 @@ Prototype Method: When you add a method to the prototype property of a construct
 ## 4 MARCH 2024  
 
 Audio & Video:  
-\<figure> is the appropriate semantic to embed both audio and video. 
+\<figure> is the appropriate semantic to embed both audio and video.
 
-CSS GRID: 
+CSS GRID:
 
 CSS Grid is a powerful layout system that allows developers to create complex web layouts with ease. Here are some key concepts to understand:
 
