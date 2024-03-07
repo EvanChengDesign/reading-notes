@@ -3,6 +3,13 @@
 # Class 014
 
 ### *Bookmarks:*  
+[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)  
+
+[404](https://codepen.io/kieranfivestars/pen/MYdQxX)  
+  
+[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
+
+[6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV)
 
 ## **Questions & Answers**  
 
