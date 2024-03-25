@@ -49,4 +49,3 @@ C. **Class - Code 301 - Intermediate Software Development Reading Notes**
 2. [301.002](./code-301/code-301-class-002.md)
 
 D. **Class - Code 401 - Advanced Software Development Reading Notes**
-
