@@ -2,7 +2,7 @@
 
 ## Overview
 
-To organize reading notes for Code Fellows Class 102 and Class 201. Please see the table of contents below for each specific lesson's reading notes.
+To organize reading notes for Code Fellows Class 102, Class 201, Class 301, and Class 401.  Please see the table of contents below for each specific lesson's reading notes.
 
 ## Personal Introduction
 
