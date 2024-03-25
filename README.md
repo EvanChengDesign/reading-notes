@@ -2,7 +2,7 @@
 
 ## Overview
 
-To organize reading notes for Code Fellows Class 102, Class 201, Class 301, and Class 401.  Please see the table of contents below for each specific lesson's reading notes.
+To organize reading notes for Code Fellows Class 102, Class 201, Class 301, and Class 401. Please see the table of contents below for each specific lesson's reading notes.
 
 ## Personal Introduction
 
@@ -43,12 +43,10 @@ B. **Class - Code 201 - Foundations of Software Development Reading Notes**
 ### [201 Pre-work: Ai Prompt & Response Assignment](./code-201/prompt-engineering.md)  
 
 ### [Things I Want To Know More About](./code-201/things-i-want-to-know-more-about.md)  
-  
-    
-
-
 
 C. **Class - Code 301 - Intermediate Software Development Reading Notes**  
+1. [301.001](./code-301/code-301-class-001.md)
+2. [301.002](./code-301/code-301-class-002.md)
 
 D. **Class - Code 401 - Advanced Software Development Reading Notes**
 
