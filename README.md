@@ -6,7 +6,7 @@ To organize reading notes for Code Fellows Class 102, Class 201, Class 301, and 
 
 ## Personal Introduction
 
-My name is Evan Cheng, I am a creative designer with a focus in graphic design and photography. Prior to starting my software development journey, I was a public affairs specialist and combat camerman in the US Army.
+My name is Evan Cheng, I am a creative designer with a focus in graphic design and photography. Prior to starting my software development journey, I was a public affairs specialist and combat cameraman in the US Army.
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@ A.  **Class - Code 102 - Intro to Software Development Reading Notes**
 8. [102.008](./code-102/code-102-class-008.md)
 
 B. **Class - Code 201 - Foundations of Software Development Reading Notes**
+
 1. [201.001](./code-201/code-201-class-001.md)
 2. [201.002](./code-201/code-201-class-002.md)
 3. [201.003](./code-201/code-201-class-003.md)
@@ -45,7 +46,15 @@ B. **Class - Code 201 - Foundations of Software Development Reading Notes**
 ### [Things I Want To Know More About](./code-201/things-i-want-to-know-more-about.md)  
 
 C. **Class - Code 301 - Intermediate Software Development Reading Notes**  
+
 1. [301.001](./code-301/code-301-class-001.md)
 2. [301.002](./code-301/code-301-class-002.md)
+3. [301.003](./code-301/code-301-class-003.md)
+4. [301.004](./code-301/code-301-class-004.md)
+5. [301.005](./code-301/code-301-class-005.md)
+6. [301.006](./code-301/code-301-class-006.md)
+7. [301.007](./code-301/code-301-class-007.md)
+
+### [Things I Want To Know More About](./code-301/things-i-want-to-know-more-about.md)
 
 D. **Class - Code 401 - Advanced Software Development Reading Notes**
