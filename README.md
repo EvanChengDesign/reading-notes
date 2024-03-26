@@ -21,6 +21,8 @@ A.  **Class - Code 102 - Intro to Software Development Reading Notes**
 7. [102.007](./code-102/code-102-class-007.md)
 8. [102.008](./code-102/code-102-class-008.md)
 
+---
+
 B. **Class - Code 201 - Foundations of Software Development Reading Notes**
 
 1. [201.001](./code-201/code-201-class-001.md)
@@ -39,11 +41,13 @@ B. **Class - Code 201 - Foundations of Software Development Reading Notes**
 6. [201.014](./code-201/code-201-class-0014.md)
 7. [201.015](./code-201/code-201-class-0015.md)  
 
-### [201 Class Format](./code-201/code-201-class-format.md)  
+#### [201 Class Format](./code-201/code-201-class-format.md)
 
-### [201 Pre-work: Ai Prompt & Response Assignment](./code-201/prompt-engineering.md)  
+#### [201 Pre-work: Ai Prompt & Response Assignment](./code-201/prompt-engineering.md)  
 
-### [Things I Want To Know More About](./code-201/things-i-want-to-know-more-about.md)  
+#### [201 Things I Want To Know More About](./code-201/things-i-want-to-know-more-about.md)  
+
+---
 
 C. **Class - Code 301 - Intermediate Software Development Reading Notes**  
 
@@ -55,6 +59,8 @@ C. **Class - Code 301 - Intermediate Software Development Reading Notes**
 6. [301.006](./code-301/code-301-class-006.md)
 7. [301.007](./code-301/code-301-class-007.md)
 
-### [Things I Want To Know More About](./code-301/things-i-want-to-know-more-about.md)
+#### [301 Things I Want To Know More About](./code-301/things-i-want-to-know-more-about.md)
+
+---
 
 D. **Class - Code 401 - Advanced Software Development Reading Notes**
