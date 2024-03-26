@@ -28,4 +28,6 @@ returns a new array the same size as the original.
 #### forEach callBack:
 ![forEach callBack](../images/ForEachCallback.png)  
 #### for loop & array:
-![for loop & array](../images/ForLoopArray.png)
+![for loop & array](../images/ForLoopArray.png)  
+#### map:
+![map](../images/Map.png)
