@@ -31,3 +31,10 @@ returns a new array the same size as the original.
 ![for loop & array](../images/ForLoopArray.png)  
 #### map:
 ![map](../images/Map.png)
+
+## 27 March 2024 - Class 003
+
+![Class Component](../images/ClassComponents.png)  
+
+![UseState](../images/useState.png)
+
