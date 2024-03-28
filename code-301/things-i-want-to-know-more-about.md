@@ -38,3 +38,13 @@ returns a new array the same size as the original.
 
 ![UseState](../images/useState.png)
 
+## 28 MArch - Class 004
+
+Review:  
+
+![Review Screenshot](../images/review.png)
+
+Reduce Method: Returns a new array.
+
+![Reduce](../images/Reduce.png)
+
