@@ -58,6 +58,14 @@ C. **Class - Code 301 - Intermediate Software Development Reading Notes**
 5. [301.005](./code-301/code-301-class-005.md)
 6. [301.006](./code-301/code-301-class-006.md)
 7. [301.007](./code-301/code-301-class-007.md)
+8. [301.008](./code-301/code-301-class-008.md)
+9. [301.009](./code-301/code-301-class-009.md)  
+10. [301.010](./code-301/code-301-class-0010.md)
+11. [301.011](./code-301/code-301-class-0011.md)
+12. [301.012](./code-301/code-301-class-012.md)
+13. [301.013](./code-301/code-301-class-013.md)
+14. [301.014](./code-301/code-301-class-014.md)
+
 
 #### [301 Things I Want To Know More About](./code-301/things-i-want-to-know-more-about.md)
 

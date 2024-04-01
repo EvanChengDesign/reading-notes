@@ -48,3 +48,6 @@ Reduce Method: Returns a new array.
 
 ![Reduce](../images/Reduce.png)
 
+## 1 April - Class 006  
+  
+Function Chains:   
