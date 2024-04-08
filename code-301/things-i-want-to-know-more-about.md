@@ -102,3 +102,33 @@ App Structure:
 
 Two Server Flow:
 ![Two Server Flow](../images/Two%20Server%20Flow.png)
+
+## 8 April - Class 011
+
+# CRUD Operations in Databases
+
+CRUD stands for **Create**, **Read**, **Update**, and **Delete**, which are the four fundamental operations performed on database records. Here's a brief overview of each operation:
+
+## 1. **Create**
+This operation involves inserting new records into a database table. In SQL (Structured Query Language), this is typically done using the `INSERT` statement.
+
+- Example: `INSERT INTO table_name (column1, column2) VALUES (value1, value2);`
+
+## 2. **Read**
+This operation retrieves existing data from the database. In SQL, reading is performed with the `SELECT` statement, which allows you to query the database for information stored in one or more tables.
+
+- Example: `SELECT * FROM table_name;` 
+
+## 3. **Update**
+This operation modifies existing data within the database. The `UPDATE` statement is used in SQL to change existing records.
+
+- Example: `UPDATE table_name SET column1 = value1 WHERE condition;`
+
+## 4. **Delete**
+This operation removes existing records from a database table. The `DELETE` statement in SQL is used for this purpose.
+
+- Example: `DELETE FROM table_name WHERE condition;`
+
+CRUD operations are essential for managing data stored in a database, providing a straightforward way to create, retrieve, modify, and remove data.
+
+![CRUD](../images/CRUD.png)
