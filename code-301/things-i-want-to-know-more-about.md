@@ -92,3 +92,13 @@ In this example, we start by fetching data asynchronously. Once we have the data
     Data Layer (Database Tier): This layer manages the storage and retrieval of data. It is responsible for data persistence, including databases, file systems, or any other storage mechanism. The data layer ensures that the application can access and store the data it needs to function correctly.
 
 This architecture is widely adopted for its robustness, flexibility, and efficiency in managing complex, large-scale applications.
+
+## 3 April - Class 008  
+App Flow:
+![app flow](../images/App%20Flow.png)  
+
+App Structure:
+![App Structure](../images/App%20Structure.png)
+
+Two Server Flow:
+![Two Server Flow](../images/Two%20Server%20Flow.png)
