@@ -66,7 +66,6 @@ C. **Class - Code 301 - Intermediate Software Development Reading Notes**
 13. [301.013](./code-301/code-301-class-013.md)
 14. [301.014](./code-301/code-301-class-014.md)
 
-
 #### [301 Things I Want To Know More About](./code-301/things-i-want-to-know-more-about.md)
 
 #### React Start Up Instructions 
@@ -75,3 +74,20 @@ C. **Class - Code 301 - Intermediate Software Development Reading Notes**
 ---
 
 D. **Class - Code 401 - Advanced Software Development Reading Notes**
+
+1. [401.001](./code-401/code-401-class-001.md)
+2. [401.002](./code-401/code-401-class-002.md)
+3. [401.003](./code-401/code-401-class-003.md)
+4. [401.004](./code-401/code-401-class-004.md)
+5. [401.005](./code-401/code-401-class-005.md)
+6. [401.006](./code-401/code-401-class-006.md)
+7. [401.007](./code-401/code-401-class-007.md)
+8. [401.008](./code-401/code-401-class-008.md)
+9. [401.009](./code-401/code-401-class-009.md)  
+10. [401.010](./code-401/code-401-class-0010.md)
+11. [401.011](./code-401/code-401-class-0011.md)
+12. [401.012](./code-401/code-401-class-012.md)
+13. [401.013](./code-401/code-401-class-013.md)
+14. [401.014](./code-401/code-401-class-014.md)
+
+#### [401 Things I Want To Know More About](./code-401/things-i-want-to-know-more-about.md)
