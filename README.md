@@ -92,7 +92,8 @@ D. **Class - Code 401 - Advanced Software Development Reading Notes**
 14. [401.014](./code-401/code-401-class-014.md)
 
 #### [401 Things I Want To Know More About](./code-401/things-i-want-to-know-more-about.md)
-#### [Practice In The Terminal](./code-401/practice-in-the-terminal.md)
+#### [Practice In The Terminal](./code-401/practice-in-the-terminal.md)  
+#### [SQL Practice](./code-401/sql-practice.MD)
 #### 401 Growth Mindest Bookmarks
 
 [Upgrade Your Technical Skills with Deliberate Practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)  
@@ -100,7 +101,7 @@ D. **Class - Code 401 - Advanced Software Development Reading Notes**
 [Angela Lee Duckworth on Grit](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)  
 [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)  
   
-#### Assessing Emotional Intelligence  
+#### Assessing Emotional Intelligence
 Self-Awareness Score: 22  
 
 Self-Management Score: 20  
