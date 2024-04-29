@@ -92,7 +92,7 @@ D. **Class - Code 401 - Advanced Software Development Reading Notes**
 14. [401.014](./code-401/code-401-class-014.md)
 
 #### [401 Things I Want To Know More About](./code-401/things-i-want-to-know-more-about.md)
-
+#### [Practice In The Terminal](./code-401/practice-in-the-terminal.md)
 #### 401 Growth Mindest Bookmarks
 
 [Upgrade Your Technical Skills with Deliberate Practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)  
