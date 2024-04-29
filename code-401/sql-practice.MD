@@ -1,4 +1,6 @@
-### SQL Practice
+### SQL Practice  
+
+Relational databases are structured systems used to store data in tables, where each table represents a different type of entity, and each row within a table represents a unique instance of that entity. These tables are linked through relationships, often defined by foreign keys, which connect rows in different tables and maintain the integrity of the data. SQL (Structured Query Language) is the standard language used to manage and manipulate data in relational databases, allowing users to perform tasks such as querying, updating, inserting, and deleting data across these structured relationships. This structure and language combination enables efficient data management and complex querying across large datasets.  
 
 Exercise 1:  
 
