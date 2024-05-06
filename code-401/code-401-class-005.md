@@ -1,6 +1,6 @@
  **Reading Notes | 6 MAY 2024**
 
-# Class 006
+# Class 005
 
 ### *Bookmarks:*
 [bcrypt docs](https://www.npmjs.com/package/bcrypt)  
