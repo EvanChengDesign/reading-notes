@@ -2,7 +2,6 @@
 
 # Class 017
 
-
 ### *Bookmarks:*
 [AWS S3](https://aws.amazon.com/s3/)  
 [AWS Lambda Basics](https://www.serverless.com/aws-lambda)  
