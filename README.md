@@ -90,6 +90,10 @@ D. **Class - Code 401 - Advanced Software Development Reading Notes**
 12. [401.012](./code-401/code-401-class-012.md)
 13. [401.013](./code-401/code-401-class-013.md)
 14. [401.014](./code-401/code-401-class-014.md)
+15. [401.015](./code-401/code-401-class-015.md)
+16. [401.016](./code-401/code-401-class-016.md)
+17. [401.017](./code-401/code-401-class-017.md)
+18. [401.018](./code-401/code-401-class-018.md)
 
 #### [401 Things I Want To Know More About](./code-401/things-i-want-to-know-more-about.md)
 #### [Practice In The Terminal](./code-401/practice-in-the-terminal.md)  
