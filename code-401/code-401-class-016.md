@@ -1,4 +1,4 @@
-**Reading Notes | 21 MAY 2024**
+**Reading Notes | 20 MAY 2024**
 
 # Class 016
 
