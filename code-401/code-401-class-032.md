@@ -1,0 +1,8 @@
+**Reading Notes | 11 June 2024**
+
+# Class 032
+
+## **Questions & Answers**  
+In a React application, useReducer and useContext work together to create a robust state management solution that is both scalable and easy to manage. The useReducer hook provides a way to manage complex state logic in a manner similar to Redux but within the functional component paradigm of React. It takes a reducer function and an initial state as arguments and returns the current state along with a dispatch function. The reducer function specifies how the state should change in response to different actions, allowing for centralized state updates that are predictable and easier to debug. This method is particularly useful for applications with complex state transitions or when the state logic involves multiple sub-values.
+
+useContext, on the other hand, allows you to share state across multiple components without the need for prop drilling. When combined with useReducer, it provides a way to access the centralized state and dispatch function from any component in the component tree. This is achieved by creating a context that holds the state and dispatch function, which can then be provided to the component tree via a Context.Provider. Any component that needs access to the state or dispatch function can then use the useContext hook to access the context values directly. This combination simplifies state management by making the state accessible throughout the component tree, avoiding the need to pass state and update functions through multiple layers of props, and ensuring that all state changes are handled in a consistent manner by the reducer. This approach promotes a more organized and maintainable codebase, especially as the application grows in complexity.
