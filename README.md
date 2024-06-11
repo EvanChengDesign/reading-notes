@@ -97,10 +97,15 @@ D. **Class - Code 401 - Advanced Software Development Reading Notes**
 19. [401.019](./code-401/code-401-class-019.md)
 26. [401.026](./code-401/code-401-class-026.md)
 31. [401.31](./code-401/code-401-class-031.md)
+32. [401.32](./code-401/code-401-class-032.md)
+33. [401.33](./code-401/code-401-class-033.md)
 
 #### [401 Things I Want To Know More About](./code-401/things-i-want-to-know-more-about.md)
+
 #### [Practice In The Terminal](./code-401/practice-in-the-terminal.md)  
+
 #### [SQL Practice](./code-401/sql-practice.MD)
+
 #### 401 Growth Mindest Bookmarks
 
 [Upgrade Your Technical Skills with Deliberate Practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)  
@@ -109,6 +114,7 @@ D. **Class - Code 401 - Advanced Software Development Reading Notes**
 [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)  
   
 #### Assessing Emotional Intelligence
+
 Self-Awareness Score: 22  
 
 Self-Management Score: 20  
@@ -117,8 +123,8 @@ Social Awareness Score: 22
 
 Relationship Management Score: 21
 
-After taking this assessment, I am not shocked by the results, however I did find the individual questions helpful in analyzing past interactions with others and also reflecting on my overall ability to handle situations. In particular, question 13 produced my lowest score. The question was: "I am able to honestly say how I feel without getting others upset." This might not be the right response, but I gave this a 3 rating, because I felt that the outcome of this was subjective. I believe, within reason, being honest to others about how you feel shouldn't be dependent on how others feel. In an instance where someone is upset about your honesty, they might be more upset about the delivery of that honesty, versus the actual reason why you feel a certain way. Therefore, you should always aim to be honest about how you feel towards others, but remember to deliver that feeling in a way that is respectful and maybe even empathetic. 
-
+After taking this assessment, I am not shocked by the results, however I did find the individual questions helpful in analyzing past interactions with others and also reflecting on my overall ability to handle situations. In particular, question 13 produced my lowest score. The question was: "I am able to honestly say how I feel without getting others upset." This might not be the right response, but I gave this a 3 rating, because I felt that the outcome of this was subjective. I believe, within reason, being honest to others about how you feel shouldn't be dependent on how others feel. In an instance where someone is upset about your honesty, they might be more upset about the delivery of that honesty, versus the actual reason why you feel a certain way. Therefore, you should always aim to be honest about how you feel towards others, but remember to deliver that feeling in a way that is respectful and maybe even empathetic.
 
 #### Assessing Biases
+
 According the Bias Assessment, my highest score is in the "What is Bias" category, with a score of 14. My lowest score was in the "Connect to Mitigate bias" category, with a score of 11. One aspect of this test that I liked and can agree with was the statement: "But this is not a topic you ever master. You should continue your journey in this area by examining where you still have room for improvement". Even though I have a high self-awareness or understanding of this concept, does not make me a master or perfect at responding to all kinds of situations. If anything, it  means that I have even more of a responsibility and accountability to self, in order to reduce bias from myself and bias from others. In the assessment, I said that I would like to focus on the following areas:  "EMPATHY AND CURIOSITY, CONNECT TO MITIGATE BIAS". Specifically, I need the support and input of others to be able to see past my own biases and assumptions, and not rely on myself.
